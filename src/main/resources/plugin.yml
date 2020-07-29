@@ -1,0 +1,11 @@
+name: autoOptimizer
+version: "0.1"
+author: NoahCou
+main: net.explosionfish.autoOptimizer.Main
+description: Automatically Optimize yamls
+
+commands:
+  optimize:
+    aliases: [optimize]
+    description: Optimizes yamls
+    usage: /optimize
